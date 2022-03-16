@@ -1,0 +1,7 @@
+Date	Name	Volume	Comment
+5-Apr	Liza	3	Transfection
+5-Apr	Dasha	40	Virus
+5-Apr	Dima	300	Biomass
+9-Apr	Dasha	300	Biomass
+9-Apr	Liza	40	Virus
+8-Apr	Dasha	1	Titer
